@@ -14,7 +14,7 @@
   margin: 0;
 }
 
-/* Element selectors */
+/* Element Styles */
 body {
   background-color: var(--off-white);
 }
@@ -27,7 +27,7 @@ a {
 p {
   font-size: 16px;
 }
-
+/* Header Styles */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -68,7 +68,7 @@ p {
   background-size: cover;
   background-position: center;
 }
-
+/* Middle Styles */
 .content {
   width: 75%;
   display: inline-block;
@@ -86,7 +86,7 @@ p {
 }
 
 /* Benefits Styles */
-.benefits {
+.aside {
   margin-right: 20px;
   padding: 20px;
   clear: both;
